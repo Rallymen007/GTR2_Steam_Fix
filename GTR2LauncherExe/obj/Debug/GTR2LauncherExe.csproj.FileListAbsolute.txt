@@ -1,0 +1,6 @@
+c:\users\franck\documents\visual studio 2017\Projects\GTR2LauncherExe\GTR2LauncherExe\bin\Debug\GTR2LauncherExe.exe.config
+c:\users\franck\documents\visual studio 2017\Projects\GTR2LauncherExe\GTR2LauncherExe\bin\Debug\GTR2LauncherExe.exe
+c:\users\franck\documents\visual studio 2017\Projects\GTR2LauncherExe\GTR2LauncherExe\bin\Debug\GTR2LauncherExe.pdb
+c:\users\franck\documents\visual studio 2017\Projects\GTR2LauncherExe\GTR2LauncherExe\obj\Debug\GTR2LauncherExe.csprojResolveAssemblyReference.cache
+c:\users\franck\documents\visual studio 2017\Projects\GTR2LauncherExe\GTR2LauncherExe\obj\Debug\GTR2LauncherExe.exe
+c:\users\franck\documents\visual studio 2017\Projects\GTR2LauncherExe\GTR2LauncherExe\obj\Debug\GTR2LauncherExe.pdb
